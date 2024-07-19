@@ -12,4 +12,5 @@ recessions impact automobile sales for your company.
 This Project will be completed in 2 Parts:
 
 Part 1: Create Visualizations using Matplotlib, Seaborn & Folium
+
 Part 2: Create Dashboard using Plotly and Dash
